@@ -1,0 +1,4 @@
+interface:
+  display_name: ".NET Good Practices"
+  short_description: "Implement and review layered ASP.NET Core code"
+  default_prompt: "Use $dotnet-good-practices to implement or review this .NET change while preserving layer boundaries and adding the right tests."

@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="InsuranceApp.API/InsuranceApp.API.csproj" />
+  <Project Path="InsuranceApp.Application.Tests/InsuranceApp.Application.Tests.csproj" Id="cf84284d-34c0-42bf-8577-cf6a26961f54" />
+  <Project Path="InsuranceApp.Application/InsuranceApp.Application.csproj" />
+  <Project Path="InsuranceApp.Domain/InsuranceApp.Domain.csproj" />
+  <Project Path="InsuranceApp.Infrastructure.Tests/InsuranceApp.Infrastructure.Tests.csproj" Id="418d5cb3-c684-4e84-bfb9-a1fed999e2de" />
+  <Project Path="InsuranceApp.Infrastructure/InsuranceApp.Infrastructure.csproj" />
+  <Project Path="InsuranceApp.IntegrationTests/InsuranceApp.IntegrationTests.csproj" Id="84ee7e5f-579c-4161-8aee-14c37b441ac6" />
+</Solution>
